@@ -8,7 +8,7 @@ window.SITE_CONFIG = {
   tagline: "Expert reviews & buying guides for the perfect bath towels",
   logo: "images/bath-towels-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
-  affiliateTag: "bestbathtowels-20",
+  affiliateTag: "best-bathtowels-20",
   gaId: "TBD",
   colors: {
     primary: "#1B5E20",
