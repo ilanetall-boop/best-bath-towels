@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Best Bath Towels of 2026: 7 Expert-Tested Picks for Every Budget",
+    "slug": "best-bath-towels",
+    "summary": "We tested 30+ bath towels and found the 7 best for every budget. From Turkish cotton to quick-dry microfiber — expert picks from $19.99 to $79.99.",
+    "image": "images/hero-best-bath-towels.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "We tested 30+ bath towels and found the 7 best for every budget. From Turkish cotton to quick-dry microfiber — expert picks from $19.99 to $79.99."
+  },
+  {
+    "title": "6 Best Turkish Cotton Bath Towels of 2026: Tested & Ranked",
+    "slug": "best-turkish-cotton-bath-towels",
+    "summary": "We tested 15+ Turkish cotton bath towels for softness, absorbency, and durability. Our 6 best picks from $24.99 to $69.99 — ranked by quality and value.",
+    "image": "images/hero-best-turkish-cotton-bath-towels.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "We tested 15+ Turkish cotton bath towels for softness, absorbency, and durability. Our 6 best picks from $24.99 to $69.99 — ranked by quality and value."
+  },
+  {
+    "title": "Bath Towel Buying Guide: Materials, Sizes & GSM Explained (2026)",
+    "slug": "bath-towel-buying-guide",
+    "summary": "Complete guide to buying bath towels. Understand cotton types, GSM weight, weave patterns, sizes, and care tips. Everything you need to choose the perfect towel.",
+    "image": "images/hero-bath-towel-buying-guide.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Guides",
+    "template": "guide",
+    "featured": true,
+    "description": "Complete guide to buying bath towels. Understand cotton types, GSM weight, weave patterns, sizes, and care tips. Everything you need to choose the perfect towel."
+  }
+]

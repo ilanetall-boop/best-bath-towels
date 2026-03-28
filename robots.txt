@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://best-bath-towels.com/sitemap.xml
