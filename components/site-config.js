@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   logo: "images/bath-towels-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "best-bathtowels-20",
-  gaId: "TBD",
+  gaId: "G-MT3XK7FP9N",
   colors: {
     primary: "#1B5E20",
     primaryLight: "#4CAF50",
