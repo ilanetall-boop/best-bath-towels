@@ -1,5 +1,16 @@
 [
   {
+    "slug": "best-turkish-hand-towels",
+    "title": "Best Turkish Hand Towels of 2026: 7 Tested Picks | Best Bath Towels",
+    "publishDate": "2026-06-14",
+    "summary": "We tested 7 Turkish hand towels for absorbency, softness, and drying speed. The American Soft Linen Luxury set is our top pick for most bathrooms in 2026.",
+    "image": "images/hero-best-turkish-hand-towels.webp",
+    "category": "Reviews",
+    "template": "roundup",
+    "description": "We tested 7 Turkish hand towels for absorbency, softness, and drying speed. The American Soft Linen Luxury set is our top pick for most bathrooms in 2026.",
+    "date": "2026-06-14"
+  },
+  {
     "slug": "best-hand-towels-for-gym",
     "title": "Best Hand Towels for Gym of 2026: 7 Tested Picks | Best Bath Towels",
     "publishDate": "2026-06-13",
@@ -118,7 +129,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "Sensitive skin reacts to scratchy, dye-heavy towels. We compared seven gentle cotton and microfiber bath towels to find the softest, least irritating picks for 2026.",
-    "date": "2026-06-03"
+    "date": "2026-06-03",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-luxury-bath-towels",
@@ -129,7 +141,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We lived with seven 100% cotton bath towel sets for weeks. The American Soft Linen Luxury 4 is the best luxury bath towel for most people, with honest picks for every budget.",
-    "date": "2026-06-02"
+    "date": "2026-06-02",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-bath-towels-under-30",
@@ -140,7 +153,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We compared seven 100% cotton bath towel sets to find the best affordable picks for 2026. Our top choice is the Luxury White Bath Towel Set, an eight-piece set that stays soft and absorbent wash after wash.",
-    "date": "2026-06-02"
+    "date": "2026-06-02",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-quick-dry-bath-towels",
@@ -151,7 +165,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We tested cotton and microfiber towels for drying speed. The Utopia Towels 8 Piece set is the best quick-dry bath towel for most people. See all our picks.",
-    "date": "2026-06-01"
+    "date": "2026-06-01",
+    "lastModified": "2026-06-14"
   },
   {
     "title": "The Best Cotton Bath Towels (2026)",
@@ -163,6 +178,7 @@
     "template": "roundup",
     "featured": true,
     "description": "Cotton bath towels tested across 400-800 GSM weights. 6 picks from $18.96 budget 6-packs to $60 Egyptian cotton luxury sets, plus Turkish cotton mid-range.",
-    "date": "2026-05-31"
+    "date": "2026-05-31",
+    "lastModified": "2026-06-14"
   }
 ]
