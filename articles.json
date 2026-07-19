@@ -1,5 +1,16 @@
 [
   {
+    "slug": "towel-gsm-guide",
+    "title": "Towel Gsm Guide (2026)",
+    "publishDate": "2026-07-19",
+    "summary": "A towel GSM guide that explains what grams per square meter means, which weight fits your bathroom, gym bag, or beach trip, and how to pick towels that dry fast and last.",
+    "image": "images/hero-towel-gsm-guide.webp",
+    "category": "Guides",
+    "template": "guide",
+    "description": "A towel GSM guide that explains what grams per square meter means, which weight fits your bathroom, gym bag, or beach trip, and how to pick towels that dry fast and last.",
+    "date": "2026-07-19"
+  },
+  {
     "slug": "best-bath-sheets-for-kids",
     "title": "Best Bath Sheets for Kids of 2026: 7 Tested Picks | Best Bath Towels",
     "publishDate": "2026-07-18",
